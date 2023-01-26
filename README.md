@@ -1,2 +1,2 @@
-# javascriptNotes
-Documenting various JS points
+# This is: Javascript - Notes
+
