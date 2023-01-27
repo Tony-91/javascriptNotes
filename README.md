@@ -12,6 +12,6 @@
 
 ![](images/magic8Ball.png)
 
-`console.log(`the magic 8 ball says: ${eightBallResponses[randomNumber]}`);`
+`console.log(the magic 8 ball says: ${eightBallResponses[randomNumber]});`
 
 - The `randomNumber` will dynaimcally return a correct number because of the (dot) length notation of eightBallResponses - this 'connects' a random number to our `eightBallResponses` array. 
