@@ -20,6 +20,8 @@
 
 ![](images/higher.png)
 
+> `const checkConsistentOutput = (func, val) => {...}` In this code block 'func' and 'val' are "puched holes" NOT filled with real life values until plugging them in at `console.log(checkConsistentOutput(addTwo, 2));`
+
 By thinking about functions as data, and learning about higher-order functions, you’ve taken important steps in learning to write clean, modular code that takes advantage of JavaScript’s flexibility.
 
 Functions in JS are nothing more than another data type! - access properties and methods with DOT notation and reassign them to NEW variables.
