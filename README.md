@@ -33,7 +33,7 @@ Functions in JS are nothing more than another data type! - access properties and
 ## Iterators: Array Methods
 
 ![](images/iterators.png)
-> `.forEach()` always return undefined
+> `.forEach()` always returns undefined
 
 
 `.forEach()` is used to execute the same code on every element in an array but does not change the array and returns undefined.
